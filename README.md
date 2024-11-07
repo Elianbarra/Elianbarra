@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Elianbarra
+- 👋 Hi, I’m <Elian>
 - 👀 I’m interested in React.jsx
 - 🌱 I’m currently learning Engineer informatic
