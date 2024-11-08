@@ -38,6 +38,7 @@
   <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"> </code>
 
 
   
