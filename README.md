@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-    Elian here, a <b>Sophomore</b>first year computer engineering student  <a href="[https://vitbhopal.ac.in/](https://www.duoc.cl/)"> <b></b>,BHOPAL(MP) </a>. <br>
+    Elian here, a <b>Sophomore</b>first year computer engineering student  <a href="https://vitbhopal.ac.in/(https://www.duoc.cl/)">,DuocUc </a>. <br>
     A budding <b>Full-Stack Software Developer & CYBER Security analyst,</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and Also a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
