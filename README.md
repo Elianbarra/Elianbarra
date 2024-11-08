@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <Elian>
-- 👀 I’m interested in React.jsx
-- 🌱 I’m currently learning Engineer informatic
+- 🌐 Hi, I’m <Elian>
+- ⛩️ I’m interested in React.jsx
+- 🥷 I’m currently learning Engineer informatic
 - 🍙 I’m Developer Jr Front-End 
