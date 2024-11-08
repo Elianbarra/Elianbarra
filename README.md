@@ -39,6 +39,8 @@
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </code>
   <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"> </code>
+    <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </code>
+      <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </code>
 
 
   
