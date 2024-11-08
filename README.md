@@ -19,7 +19,7 @@
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-<img align="right" width=300px alt="Samurai" src="https://giphy.com/gifs/naruto-sasuke-lDmsGbXcCuyOI" />
+<img align="right" width=300px alt="" src="https://giphy.com/gifs/naruto-sasuke-lDmsGbXcCuyOI" />
 
 
 
