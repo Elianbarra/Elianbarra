@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">!Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30px">,I'm Elian Barra¡</h1>
+<h1 align="center">!Hi ,I'm Elian Barra¡</h1>
 <h3 align="center">WEB Developer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/elianbarra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="astrohere" height="30" width="40" /></a>
