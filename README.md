@@ -25,7 +25,7 @@
 
 
 ✔ I am currently improving my **portfolio**. <br>
-✔ I am currently learning **Java** and **PHP**<br>
+✔ I am currently learning **Java**<br>
 
  
 
