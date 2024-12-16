@@ -26,7 +26,7 @@
 
 ✔ I am currently improving my **portfolio**. <br>
 ✔ I am currently learning **Java** and **PHP**<br>
-✔ Ask me about anything, I'll be happy to help you😉<br><br><br><br>
+
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
