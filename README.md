@@ -32,7 +32,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </code>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code>
