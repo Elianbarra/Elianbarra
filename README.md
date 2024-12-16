@@ -33,15 +33,13 @@
 <p align="left">
   
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/divyanshojha99/PICBOX/blob/main/php-web-programming-language-line-icon-php-web-programming-language-line-icon-linear-style-sign-mobile-concept-web-design-177562144.jpg?raw=true"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"> </code>
-    <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </code>
-      <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </code>
-
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> 
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
 
 <hr>
