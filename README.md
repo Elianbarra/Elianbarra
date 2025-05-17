@@ -20,7 +20,7 @@
   </em> 
   <br>
 <img align="right" width=300px alt="" src="https://giphy.com/gifs/naruto-sasuke-lDmsGbXcCuyOI" />
-<img align="right" width=300px alt="Itachi" src="https://media.giphy.com/media/oNCpIxCAH73epNPQ1g/giphy.gif" />
+<img align="right" width=200px alt="Itachi" src="https://media.giphy.com/media/oNCpIxCAH73epNPQ1g/giphy.gif" />
 
 
 
