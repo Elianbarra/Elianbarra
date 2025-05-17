@@ -29,7 +29,7 @@
 
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img  width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
